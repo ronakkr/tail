@@ -554,86 +554,43 @@ video {
   --tw-contain-style:  ;
 }
 
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+
 .flex {
   display: flex;
 }
 
-.h-\[1024px\] {
-  height: 1024px;
+.h-\[269px\] {
+  height: 269px;
 }
 
-.h-\[200px\] {
-  height: 200px;
-}
-
-.w-\[1440px\] {
-  width: 1440px;
-}
-
-.w-\[600px\] {
-  width: 600px;
-}
-
-.items-center {
-  align-items: center;
+.w-\[285px\] {
+  width: 285px;
 }
 
 .justify-center {
   justify-content: center;
 }
 
-.justify-items-center {
-  justify-items: center;
+.gap-5 {
+  gap: 1.25rem;
 }
 
-.bg-\[\#E7CAFF\] {
+.bg-\[\#7ADFFF\] {
   --tw-bg-opacity: 1;
-  background-color: rgb(231 202 255 / var(--tw-bg-opacity));
+  background-color: rgb(122 223 255 / var(--tw-bg-opacity));
 }
 
-.bg-purple-50 {
+.bg-white {
   --tw-bg-opacity: 1;
-  background-color: rgb(250 245 255 / var(--tw-bg-opacity));
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#E3A7FF\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(227 167 255 / var(--tw-bg-opacity));
-}
-
-.bg-\[\#340C53\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(52 12 83 / var(--tw-bg-opacity));
-}
-
-.bg-\[\#560E8D\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(86 14 141 / var(--tw-bg-opacity));
-}
-
-.bg-\[\#7629B2\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(118 41 178 / var(--tw-bg-opacity));
-}
-
-.bg-\[\#7E45A8\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(126 69 168 / var(--tw-bg-opacity));
-}
-
-.bg-\[\#9E38EF\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(158 56 239 / var(--tw-bg-opacity));
-}
-
-.bg-\[\#AB47FB\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(171 71 251 / var(--tw-bg-opacity));
-}
-
-.px-20 {
-  padding-left: 5rem;
-  padding-right: 5rem;
+.px-\[72px\] {
+  padding-left: 72px;
+  padding-right: 72px;
 }
 
 .py-\[120px\] {
@@ -641,11 +598,12 @@ video {
   padding-bottom: 120px;
 }
 
-.py-\[80px\] {
-  padding-top: 80px;
-  padding-bottom: 80px;
+.px-\[120px\] {
+  padding-left: 120px;
+  padding-right: 120px;
 }
 
-.align-middle {
-  vertical-align: middle;
+.py-\[72px\] {
+  padding-top: 72px;
+  padding-bottom: 72px;
 }
