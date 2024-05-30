@@ -582,6 +582,18 @@ video {
   height: 946px;
 }
 
+.h-\[274px\] {
+  height: 274px;
+}
+
+.h-\[235px\] {
+  height: 235px;
+}
+
+.h-\[68px\] {
+  height: 68px;
+}
+
 .w-\[285px\] {
   width: 285px;
 }
@@ -590,12 +602,92 @@ video {
   width: 895px;
 }
 
+.w-\[575px\] {
+  width: 575px;
+}
+
+.w-\[1166px\] {
+  width: 1166px;
+}
+
+.w-\[279px\] {
+  width: 279px;
+}
+
+.w-\[1160px\] {
+  width: 1160px;
+}
+
+.w-\[1150px\] {
+  width: 1150px;
+}
+
+.w-\[281px\] {
+  width: 281px;
+}
+
+.w-\[284px\] {
+  width: 284px;
+}
+
+.w-\[288px\] {
+  width: 288px;
+}
+
+.w-\[287px\] {
+  width: 287px;
+}
+
 .justify-center {
   justify-content: center;
 }
 
 .gap-5 {
   gap: 1.25rem;
+}
+
+.border-b-\[8px\] {
+  border-bottom-width: 8px;
+}
+
+.border-l-4 {
+  border-left-width: 4px;
+}
+
+.border-l-\[8px\] {
+  border-left-width: 8px;
+}
+
+.border-r-4 {
+  border-right-width: 4px;
+}
+
+.border-r-\[8px\] {
+  border-right-width: 8px;
+}
+
+.border-t-4 {
+  border-top-width: 4px;
+}
+
+.border-l-\[16px\] {
+  border-left-width: 16px;
+}
+
+.border-r-\[16px\] {
+  border-right-width: 16px;
+}
+
+.border-t-\[16px\] {
+  border-top-width: 16px;
+}
+
+.border-b-\[16px\] {
+  border-bottom-width: 16px;
+}
+
+.border-t-\[8px\] {
+  border-top-width: 8px;
 }
 
 .bg-\[\#7ADFFF\] {
@@ -623,6 +715,31 @@ video {
   background-color: rgb(0 92 121 / var(--tw-bg-opacity));
 }
 
+.bg-\[\#9DC783\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(157 199 131 / var(--tw-bg-opacity));
+}
+
+.bg-red-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(239 68 68 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#D01010\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(208 16 16 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#0AAE42\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(10 174 66 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#1BFF69\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(27 255 105 / var(--tw-bg-opacity));
+}
+
 .px-\[72px\] {
   padding-left: 72px;
   padding-right: 72px;
@@ -646,4 +763,9 @@ video {
 .py-\[52px\] {
   padding-top: 52px;
   padding-bottom: 52px;
+}
+
+.py-\[32px\] {
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
